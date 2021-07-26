@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="938" alt="1" src="https://user-images.githubusercontent.com/52053143/127054262-efa3ec9f-7380-43cb-97c5-e48008f558aa.png">
 <br>
 
- *   Then the codes were downloaded from [watson-streaming-stt](https://github.com/IBM/watson-streaming-stt) and opened by Visual code and made some modifications such as changing the **APIKEY** and region with following the steps in this video.   [▶](https://www.youtube.com/watch?v=YCyuZM454_I) 
+ *   Then the codes were downloaded from [watson-streaming-stt](https://github.com/IBM/watson-streaming-stt) and opened by Visual Studio Code and made some modifications such as changing the **APIKEY** and region with following the steps in this video.   [▶](https://www.youtube.com/watch?v=YCyuZM454_I) 
 
 
 <br><br>
@@ -30,3 +30,9 @@
 <hr><br>
 
  # Text to Speech - TSS
+ 
+ <br>
+ <br>
+
+The first steps will be done as in STT, but by choosing Text-to-Speech from the catalog.
+Then the steps in this video are followed  [⊵](https://www.youtube.com/watch?v=8k8S5ruFAUs) with downloading the codes from https://github.com/nicknochnack  and working on them by choosing the appropriate language and changing the voice and writing the speech we want to convert
