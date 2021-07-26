@@ -1,1 +1,7 @@
-# A chatbot : Speech to text / text to speech 
+# Speech to text - STT
+ 
+   
+
+
+
+# Text to Speech - TSS
