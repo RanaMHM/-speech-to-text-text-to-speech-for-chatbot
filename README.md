@@ -34,4 +34,5 @@
  <br>
  
 The first steps will be done as in STT, but by choosing Text-to-Speech from the catalog.
-Then the steps in this video are followed [⊵](https://www.youtube.com/watch?v=8k8S5ruFAUs) and work on the codes by choosing the appropriate language and changing the voice and writing the speech we want to convert.
+Then the steps in this video are followed 
+https://www.youtube.com/watch?v=khBVC3Sr6z8 OR https://www.youtube.com/watch?v=8k8S5ruFAUs and work on the codes by choosing the appropriate language and changing the voice and writing the speech we want to convert.
