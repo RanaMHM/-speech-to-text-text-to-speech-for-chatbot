@@ -21,7 +21,6 @@
   ## Additions: The following code has been added to save the converted speech to text in a special file. 
 
   > **` with open('output.txt' ,'w') as out:out.writelines(data['results'][0]['alternatives'][0]['transcript'])`** 
-<br>
  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="960" alt="STT" src="https://user-images.githubusercontent.com/52053143/127054334-46a312b1-3c46-4f0a-91b7-e30ed6476a4d.png">
