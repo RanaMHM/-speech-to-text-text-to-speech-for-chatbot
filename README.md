@@ -27,6 +27,5 @@
 
 
 *  The last sentence reached by converting speech to text was saved in the file named [output.txt](https://github.com/RanaMHM/IBM-Watson-STT-TTS/blob/main/output.txt)   
-
-<br><hr><br>
+<hr><br>
  # Text to Speech - TSS
