@@ -7,8 +7,7 @@
 
 <br><br>
 
-*   We open the **service credentials** and we will need both an **APIKEY** and h786f  for later use. <br><br>
-*   
+*   We open the **service credentials** and we will need both an **APIKEY** and h786f  for later use. <br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="938" alt="1" src="https://user-images.githubusercontent.com/52053143/127054262-efa3ec9f-7380-43cb-97c5-e48008f558aa.png">
 <br>
 
