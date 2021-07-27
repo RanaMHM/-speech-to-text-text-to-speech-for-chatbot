@@ -8,7 +8,7 @@
 <br><br>
 
 *   We open the **service credentials** and we will need both an **APIKEY** and h786f  for later use. <br>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="938" alt="1" src="https://user-images.githubusercontent.com/52053143/127054262-efa3ec9f-7380-43cb-97c5-e48008f558aa.png">
+<img width="938" alt="1" src="https://user-images.githubusercontent.com/52053143/127054262-efa3ec9f-7380-43cb-97c5-e48008f558aa.png">
 <br>
 
  *   Then the codes were downloaded from [watson-streaming-stt](https://github.com/IBM/watson-streaming-stt) and opened by Visual Studio Code and made some modifications such as changing the **APIKEY** and region with following the steps in this video.   [▶](https://www.youtube.com/watch?v=YCyuZM454_I) 
